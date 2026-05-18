@@ -1,2 +1,2 @@
 #username|password|hardware_ids|max_devices|expiry|max_accounts
-admin|123456|1a93ea420919,tuquangnam|2|2026-12-31|50
+admin|123456|1a93ea420919,tuquangnam|2|2027-12-30|50
