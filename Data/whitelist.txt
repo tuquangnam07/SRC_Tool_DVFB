@@ -1,0 +1,2 @@
+#username|password|hardware_ids|max_devices|expiry|max_accounts
+admin|123456|abc123,def456|2|2025-12-31|50
